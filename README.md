@@ -1,5 +1,4 @@
-## Microsoft Teams管理员课程
-
+# Microsoft Teams管理员课程
 1 - Microsoft Teams 概述：了解 Microsoft Teams 的核心功能、体系结构和主要用途，掌握 Teams 在 Microsoft 365 协作平台中的定位与价值。
 2 - Microsoft Teams 管理中心：学习 Teams 管理员角色的分工及授权方式，掌握通过 Teams 管理中心和 PowerShell 工具进行日常管理操作的技能。
 3 - Microsoft Teams 网络：掌握 Teams 对网络的基本要求，包括带宽、端口、协议和服务质量（QoS），并能使用网络评估工具进行网络环境测试和优化。
