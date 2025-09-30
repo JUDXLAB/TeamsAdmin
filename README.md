@@ -89,8 +89,8 @@
 - 9.4 - 管理应用 + 实验
 - 9.5 - Microsoft Teams 应用设置策略
 - 9.6 - 实验：Microsoft Teams 应用设置策略
-- 9.7 - 控制自定义应用程序上传 + 实验 - *TBU*
-- 9.8 - 实验：上传自定义应用程序 - *TBU*
+- 9.7 - 控制自定义应用程序上传 + 实验 - *To Be Updated*
+- 9.8 - 实验：上传自定义应用程序 - *To Be Updated*
 
 ## 10 - Microsoft Teams 客户端
 - 10.1 - Microsoft Teams 许可证
@@ -131,4 +131,4 @@
 - 14.6 - 通话质量仪表板 - CQD
 - 14.7 - 实验：CQD
 
-## 附录 - Microsoft Teams Copilot *To Be Updated*
+## 附录 - Microsoft Teams Copilot -  *To Be Updated*
