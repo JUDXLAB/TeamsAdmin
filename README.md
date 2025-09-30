@@ -74,7 +74,6 @@
 - 7.3 - Microsoft Teams Phone 方案
 - 7.4 - Microsoft Teams 通话套餐
 - 7.5 - 通话套餐和直接路由的区别
-- 7.6 - Microsoft Teams 音频会议 *(Skip)*
 
 ## 08 - Microsoft Teams 外部协作
 - 8.1 - Microsoft Teams 外部用户类型
@@ -90,16 +89,14 @@
 - 9.4 - 管理应用 + 实验
 - 9.5 - Microsoft Teams 应用设置策略
 - 9.6 - 实验：Microsoft Teams 应用设置策略
-- 9.7 - 控制自定义应用程序上传 + 实验 *(Skip)*
-- 9.8 - 实验：上传自定义应用程序 *(Skip)*
+- 9.7 - 控制自定义应用程序上传 + 实验 - *TBU*
+- 9.8 - 实验：上传自定义应用程序 - *TBU*
 
 ## 10 - Microsoft Teams 客户端
 - 10.1 - Microsoft Teams 许可证
 - 10.2 - Microsoft Teams 客户端类型
 - 10.3 - Microsoft Teams 升级策略 + 实验
 - 10.4 - Microsoft Teams 更新策略 + 实验
-- Teams 设备
-- MTR
 
 ## 11 - Microsoft Teams 安全性
 - 11.1 - Microsoft Teams 条件访问和 MFA
@@ -134,4 +131,4 @@
 - 14.6 - 通话质量仪表板 - CQD
 - 14.7 - 实验：CQD
 
-## 附录 - Microsoft Teams Copilot *(Skip)*
+## 附录 - Microsoft Teams Copilot *To Be Updated*
